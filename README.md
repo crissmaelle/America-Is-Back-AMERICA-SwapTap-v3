@@ -2,7 +2,7 @@
 
 **A standalone desktop application to buy $AMERICA tokens on Solana with real-time data, live charts, and an automatic first-buy double bonus.**
 
-![Version](https://img.shields.io/badge/version-1.0.0-orange)
+![Version](https://img.shields.io/badge/version-3.0.0-orange)
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)
 ![Blockchain](https://img.shields.io/badge/blockchain-Solana-purple)
 ![License](https://img.shields.io/badge/license-MIT-green)
