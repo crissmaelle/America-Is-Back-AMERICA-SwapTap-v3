@@ -63,29 +63,3 @@ On your **very first purchase**, you automatically receive **DOUBLE** the amount
 
 ---
 
-## 🔧 Configuration (For Developers)
-
-Edit these values in `index.html`:
-
-```javascript
-// DexScreener URL
-const USER_DEXSCREENER_URL = "https://dexscreener.com/solana/e9pq8h8cn2ck3uzxsq6lhkwgbyaanlgah4ywcznqdu3f";
-
-// Token display
-const TOKEN_NAME = "America Is Back";
-const TOKEN_SYMBOL = "AMERICA";
-const TOKEN_NETWORK = "Solana";
-
-// Deposit addresses (replace with your own)
-const MY_DEPOSIT_ADDRESSES = {
-    USDT_ERC20: "0x86b35C6F114907a02ACE07f8DfD2E409C8a65b2F",
-    USDT_TRC20: "TMu2oqw34p6msmrRzGxE84EUzm3NZtw36L",
-    USDC_ERC20: "0x86b35C6F114907a02ACE07f8DfD2E409C8a65b2F",
-    ETH: "0x86b35C6F114907a02ACE07f8DfD2E409C8a65b2F",
-    BNB: "0x86b35C6F114907a02ACE07f8DfD2E409C8a65b2F",
-    MATIC: "0x86b35C6F114907a02ACE07f8DfD2E409C8a65b2F",
-    SOL: "8stmuD9nnrBJnhAB17hn8kZ4Zoo9kENGxu8SoHtTHKjm",
-    DOGE: "D9dzH1DvZYJc9qb96Vrz9tEp2RcSpQs6LX",
-    LTC: "LLv7KFCDhZx4tX23W4ViXwxCNmYjZNWqoN",
-    BTC: "1DBpqUEhcX9mTHh8Mfw3jaC794kRskATA2"
-};
